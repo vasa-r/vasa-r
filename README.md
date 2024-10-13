@@ -15,7 +15,7 @@
 
 - 📄 Wanna see my resume [https://drive.google.com/file/d/1YQEorc7lbW4oc_-O1TVtvBd1J5ozLErq/view?usp=drive_link](https://drive.google.com/file/d/1YQEorc7lbW4oc_-O1TVtvBd1J5ozLErq/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
