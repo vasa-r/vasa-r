@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [PhotoBuddy - {TS,TailwindCSS,React,FireBase}](https://github.com/vasa-r/PhotoBuddy)
 
-- 🌱 I’m currently learning **VueJS, NuxtJS, Postgress**
+- 🌱 I’m currently learning **React Native, Postgress**
 
 - 💬 Ask me about **React, Javascript, NodeJS, Express, MongoDB.**
 
 - 📫 How to reach me **vasaitout@gmail.com**
 
-- 📄 Wanna see my resume [https://drive.google.com/file/d/1YQEorc7lbW4oc_-O1TVtvBd1J5ozLErq/view?usp=drive_link](https://drive.google.com/file/d/1YQEorc7lbW4oc_-O1TVtvBd1J5ozLErq/view?usp=drive_link)
+- 📄 Wanna see my resume [https://drive.google.com/file/d/16rDgdqBUDVEuvTVB5g9jPH3LdSLazuHE/view?usp=sharing](https://drive.google.com/file/d/16rDgdqBUDVEuvTVB5g9jPH3LdSLazuHE/view?usp=sharing)
 
 
 <p align="left">
