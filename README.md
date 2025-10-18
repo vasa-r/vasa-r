@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasanth :)</h1>
+<h1 align="center">Vasa here :)</h1>
 <h3 align="center">Silent Night, Loud Keys: Crafting Ideas in Code, My Kinda Symphony</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasa-r" alt="vasa-r" /></a> </p>
